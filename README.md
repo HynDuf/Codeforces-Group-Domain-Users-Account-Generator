@@ -24,13 +24,20 @@ Account format:
 Just a bat file to execute add_domain_users.py by double clicking it (if you want to use it on your computer please change the python.exe path and you add_domain_users.py path accordingly).
 
 ## Example
+**input.txt** content:
 
-![input.txt content](./example_pics/input1.png)
+![](./example_pics/input1.png)
 
-![ouput.txt content (previously empty)](./example_pics/output1.png)
+**ouput.txt** content (previously empty)
+
+![](./example_pics/output1.png)
 
 If we keep the content of **output.txt**, and run the program with the following input:
 
-![input.txt next content](./example_pics/input2.png)
+**input.txt** next content
 
-![ouput.txt content (merged with previous content)](./example_pics/output2.png)
+![](./example_pics/input2.png)
+
+**ouput.txt** content (merged with previous content)
+
+![](./example_pics/output2.png)
