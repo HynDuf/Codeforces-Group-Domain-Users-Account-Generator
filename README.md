@@ -28,16 +28,16 @@ Just a bat file to execute add_domain_users.py by double clicking it (if you wan
 
 ![](./example_pics/input1.png)
 
-**ouput.txt** content (previously empty)
+**ouput.txt** content (previously empty):
 
 ![](./example_pics/output1.png)
 
 If we keep the content of **output.txt**, and run the program with the following input:
 
-**input.txt** next content
+**input.txt** next content:
 
 ![](./example_pics/input2.png)
 
-**ouput.txt** content (merged with previous content)
+**ouput.txt** content (merged with previous content):
 
 ![](./example_pics/output2.png)
