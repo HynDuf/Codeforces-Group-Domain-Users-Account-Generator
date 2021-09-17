@@ -41,7 +41,7 @@ students = {}
 for i in range(1, len(lines)):
     if lines[i].isspace() or lines[i] == '':
         continue
-    S = Student(lines[i])
+    S = Student(lines[i].strip())
     S.generate_id()
     S.generate_account()
     S.contest.update(add_contest)
